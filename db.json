@@ -160,29 +160,6 @@
         "catchPhrase": "Implemented secondary concept",
         "bs": "e-enable extensible e-tailers"
       }
-    },
-    {
-      "name": "Naza Zulfiqi",
-      "username": "zul",
-      "phone": "088211797682",
-      "email": "zulfiqinaza@gmail.com",
-      "website": "https://nazazulfiqi.vercel.app/",
-      "address": {
-        "street": "Jl.poncol Jaya",
-        "suite": "Rumah",
-        "city": "Jakarta",
-        "zipcode": "12710",
-        "geo": {
-          "lat": "-1823182387",
-          "lng": "-1823182387"
-        }
-      },
-      "company": {
-        "name": "None",
-        "catchPhrase": "None-",
-        "bs": "None"
-      },
-      "id": "b4fa"
     }
   ]
 }
