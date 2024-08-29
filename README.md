@@ -1,3 +1,7 @@
+# OBS Assignment Back End
+
+Use `npm start` in terminal to start server.
+
 ## Deploy JSON Server to Vercel
 
 A template to deploy [JSON Server](https://github.com/typicode/json-server) to [Vercel](https://vercel.com), allow you to run fake REST API online!
