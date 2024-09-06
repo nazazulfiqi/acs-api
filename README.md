@@ -1,4 +1,4 @@
-# OBS Assignment Back End
+# ACS Assignment Back End
 
 Use `npm start` in terminal to start server.
 
